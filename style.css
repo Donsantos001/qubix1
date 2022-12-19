@@ -53,8 +53,6 @@ nav {
 
 .nav-brand {
     min-width: fit-content;
-    display: flex;
-    align-items: center;
 }
 
 .nav-brand > .img-con {
@@ -112,6 +110,10 @@ nav {
 
     #nav-toggle {
         display: block;
+    }
+
+    .nav-brand {
+        padding-top: 10px;
     }
 
     .nav-brand > .img-con {
