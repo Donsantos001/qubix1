@@ -102,6 +102,7 @@ nav {
         flex-direction: column;
         height: fit-content;
         padding: 5px 10px;
+        text-align: center;
     }
 
     .nav-item {
