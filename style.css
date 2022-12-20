@@ -436,6 +436,7 @@ header::after {
     margin-top: 40px;
     display: flex;
     padding: 20px;
+    gap: 20px;
     justify-content: center;
 }
 
@@ -472,6 +473,7 @@ header::after {
 @media (max-width: 900px){
     .psr-con {
         flex-direction: column;
+        gap: 0;
     }
 
     .psr-item {
